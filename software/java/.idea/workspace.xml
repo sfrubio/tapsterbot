@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f98fc457-dd1e-43b3-ae15-f4774d79454a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doc/json-api.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recorder/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recorder/simplify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SVGReader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/arc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/bot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/demo/angry-birds/angrybirds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/demo/angry-birds/play-angry-birds.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/demo/angry-birds/play_angry_birds.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/demo/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/draw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/example/cursiveTutorial.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/example/textTutorial.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/example/tutorial.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/hello/helloChF.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/hello/helloEnT.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/hello/helloFrF.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/hello/helloItF.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/hello/helloJpF.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/hello/helloRuF.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/hello/helloSpT.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/kinematics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/motion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/shrug.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Su4z5iPRtGcEBd1mBpzDFDrqH3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f98fc457-dd1e-43b3-ae15-f4774d79454a" name="Default Changelist" comment="" />
+      <created>1572400405448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572400405448</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
