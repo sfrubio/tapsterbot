@@ -1,0 +1,26 @@
+{
+  "capabilities":
+  [
+    {
+      "deviceName": "Sony Xperia Z3 Compact",
+      "platformName": "Android",
+      "platformVersion": "6.0",
+      "udid": "BY900FQMZL",
+      "maxInstances": 1,
+      "browserName": "Chrome",
+      "systemPort": 4743
+    }
+  ],
+  "configuration":
+  {
+    "cleanUpCycle":2000,
+    "timeout":30000,
+    "proxy": "org.openqa.grid.selenium.proxy.DefaultRemoteProxy",
+    "maxSession": 1,
+    "register": true,
+    "registerCycle": 5000,
+    "hubPort": 4444,
+    "hubHost": "192.168.122.63",
+    "hubProtocol": "http"
+  }
+}
